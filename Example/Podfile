@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'PKCCoreDataHelper_Example' do
+  pod 'PKCCoreDataHelper', :path => '../'
+
+  target 'PKCCoreDataHelper_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

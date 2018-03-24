@@ -1,0 +1,6 @@
+framework module PKCCoreDataHelper {
+  umbrella header "PKCCoreDataHelper-umbrella.h"
+
+  export *
+  module * { export * }
+}

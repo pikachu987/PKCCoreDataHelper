@@ -1,0 +1,16 @@
+PODS:
+  - PKCCoreDataHelper (0.1.0)
+
+DEPENDENCIES:
+  - PKCCoreDataHelper (from `../`)
+
+EXTERNAL SOURCES:
+  PKCCoreDataHelper:
+    :path: ../
+
+SPEC CHECKSUMS:
+  PKCCoreDataHelper: 069a25e7adf68a2cd6f0672c410e73ba36c54a8f
+
+PODFILE CHECKSUM: 70bec4feaa1176f47f7787ed07624d63d0039bc3
+
+COCOAPODS: 1.4.0
